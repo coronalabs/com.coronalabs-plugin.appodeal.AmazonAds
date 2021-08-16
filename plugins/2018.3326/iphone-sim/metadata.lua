@@ -4,8 +4,8 @@ local metadata =
 	{
 		format = 'staticLibrary',
 		staticLibs = { 'APDAmazonAdsAdapter', },
-		frameworks = { 'AmazonAd', },
-		frameworksOptional = { 'EventKit', 'EventKitUI', },
+		frameworks = { 'AmazonAd', 'DTBiOSSDK', },
+		frameworksOptional = {},
 	},
 }
 
