@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDAmazonAdsAdapter', },
-		frameworks = { 'AmazonAd', 'DTBiOSSDK', },
+		staticLibs = { },
+		frameworks = { },
 		frameworksOptional = {},
 	},
 }
